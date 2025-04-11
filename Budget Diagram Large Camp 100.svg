@@ -1,0 +1,469 @@
+<svg height="1500" width="1200" xmlns="http://www.w3.org/2000/svg">
+<title>Your Diagram Title</title>
+<!-- Generated with SankeyMATIC: 11/04/2025, 02:25:44 -->
+<rect height="1500" width="1200" fill="#ffffff"></rect>
+<g transform="translate(212.01848,18)">
+<g id="sankey_flows">
+<path id="flow2" d="M12 781.53166C81.81818 781.53166 174.90909 778.17364 244.72727 778.17364" fill="none" stroke-width="295.84706" stroke="#057" opacity="0.8"><title>10-Day Campers → Budget: £344,500</title></path>
+<path id="flow53" d="M256.72727 894.42994C326.54545 894.42994 419.63635 1053.87791 489.45453 1053.87791" fill="none" stroke-width="123.44852" stroke="#17becf" opacity="0.8"><title>Budget → People Costs: £143,750</title></path>
+<path id="flow54" d="M501.45453 1037.2392C571.27271 1037.2392 664.36362 1154.98379 734.1818 1154.98379" fill="none" stroke-width="90.17109" stroke="#1f77b4" opacity="0.8"><title>People Costs → Salary costs: £105,000</title></path>
+<path id="flow31" d="M256.72727 736.37976C326.54545 736.37976 419.63635 730.51711 489.45453 730.51711" fill="none" stroke-width="79.13587" stroke="#bcbd22" opacity="0.8"><title>Budget → Site Services: £92,150</title></path>
+<path id="flow14" d="M256.72727 611.27811C326.54545 611.27811 419.63635 414.31044 489.45453 414.31044" fill="none" stroke-width="72.30863" stroke="#17becf" opacity="0.8"><title>Budget → Food and Food Infrastructure: £84,200</title></path>
+<path id="flow15" d="M501.45453 411.86294C571.27271 411.86294 664.36362 210.41637 734.1818 210.41637" fill="none" stroke-width="67.41363" stroke="#17becf" opacity="0.8"><title>Food and Food Infrastructure → Food: £78,500</title></path>
+<path id="flow1" d="M12 582.71329C81.81818 582.71329 174.90909 603.19878 244.72727 603.19878" fill="none" stroke-width="54.10266" stroke="#057" opacity="0.8"><title>7-Day Campers → Budget: £63,000</title></path>
+<path id="flow65" d="M256.72727 795.30958C326.54545 795.30958 419.63635 837.13397 489.45453 837.13397" fill="none" stroke-width="30.13604" stroke="#ff7f0e" opacity="0.8"><title>Budget → Surplus: £35,092</title></path>
+<path id="flow13" d="M256.72727 682.89972C326.54545 682.89972 419.63635 653.19355 489.45453 653.19355" fill="none" stroke-width="27.82422" stroke="#bcbd22" opacity="0.8"><title>Budget → Site Cost: £32,400</title></path>
+<path id="flow48" d="M256.72727 821.54164C326.54545 821.54164 419.63635 925.86762 489.45453 925.86762" fill="none" stroke-width="22.32808" stroke="#8c564b" opacity="0.8"><title>Budget → Programme: £26,000</title></path>
+<path id="flow3" d="M12 964.03336C81.81818 964.03336 174.90909 936.83182 244.72727 936.83182" fill="none" stroke-width="21.46931" stroke="#057" opacity="0.8"><title>Grants → Budget: £25,000</title></path>
+<path id="flow62" d="M501.45453 1103.79405C571.27271 1103.79405 664.36362 1412.2868 734.1818 1412.2868" fill="none" stroke-width="21.46931" stroke="#bcbd22" opacity="0.8"><title>People Costs → Subsidised Places: £25,000</title></path>
+<path id="flow0" d="M12 521.51317C81.81818 521.51317 174.90909 565.84218 244.72727 565.84218" fill="none" stroke-width="20.61054" stroke="#057" opacity="0.8"><title>3-Day Campers → Budget: £24,000</title></path>
+<path id="flow6" d="M256.72727 565.33036C326.54545 565.33036 419.63635 317.38128 489.45453 317.38128" fill="none" stroke-width="19.58688" stroke="#2ca02c" opacity="0.8"><title>Budget → Admin and Central Costs: £22,808</title></path>
+<path id="flow41" d="M501.45453 738.35341C571.27271 738.35341 664.36362 793.55982 734.1818 793.55982" fill="none" stroke-width="18.89299" stroke="#ff7f0e" opacity="0.8"><title>Site Services → Toilets: £22,000</title></path>
+<path id="flow32" d="M501.45453 698.24875C571.27271 698.24875 664.36362 538.86348 734.1818 538.86348" fill="none" stroke-width="14.59913" stroke="#2ca02c" opacity="0.8"><title>Site Services → Marquees: £17,000</title></path>
+<path id="flow42" d="M501.45453 753.38193C571.27271 753.38193 664.36362 832.43186 734.1818 832.43186" fill="none" stroke-width="11.16404" stroke="#1f77b4" opacity="0.8"><title>Site Services → Showers: £13,000</title></path>
+<path id="flow50" d="M501.45453 926.29701C571.27271 926.29701 664.36362 1027.63304 734.1818 1027.63304" fill="none" stroke-width="10.30527" stroke="#7f7f7f" opacity="0.8"><title>Programme → Centres: £12,000</title></path>
+<path id="flow27" d="M256.72727 664.3073C326.54545 664.3073 419.63635 567.7046 489.45453 567.7046" fill="none" stroke-width="9.36062" stroke="#17becf" opacity="0.8"><title>Budget → Organisation Meetings: £10,900</title></path>
+<path id="flow7" d="M501.45453 311.8817C571.27271 311.8817 664.36362 18.35542 734.1818 18.35542" fill="none" stroke-width="8.58772" stroke="#d62728" opacity="0.8"><title>Admin and Central Costs → International Solidarity: £10,000</title></path>
+<path id="flow4" d="M12 1002.77658C81.81818 1002.77658 174.90909 951.73152 244.72727 951.73152" fill="none" stroke-width="8.33009" stroke="#057" opacity="0.8"><title>Cafés and Bar Income → Budget: £9,700</title></path>
+<path id="flow21" d="M256.72727 655.46194C326.54545 655.46194 419.63635 506.18131 489.45453 506.18131" fill="none" stroke-width="8.33009" stroke="#d62728" opacity="0.8"><title>Budget → Café and Bar Expenses: £9,700</title></path>
+<path id="flow49" d="M501.45453 917.92398C571.27271 917.92398 664.36362 995.41649 734.1818 995.41649" fill="none" stroke-width="6.44079" stroke="#e377c2" opacity="0.8"><title>Programme → Central Programme: £7,500</title></path>
+<path id="flow35" d="M501.45453 716.06827C571.27271 716.06827 664.36362 628.21357 734.1818 628.21357" fill="none" stroke-width="6.01141" stroke="#8c564b" opacity="0.8"><title>Site Services → Gas: £7,000</title></path>
+<path id="flow45" d="M501.45453 762.78548C571.27271 762.78548 664.36362 913.36597 734.1818 913.36597" fill="none" stroke-width="6.01141" stroke="#2ca02c" opacity="0.8"><title>Site Services → Electricity: £7,000</title></path>
+<path id="flow30" d="M501.45453 565.60061C571.27271 565.60061 664.36362 453.24906 734.1818 453.24906" fill="none" stroke-width="5.15263" stroke="#2ca02c" opacity="0.8"><title>Organisation Meetings → Travel: £6,000</title></path>
+<path id="flow12" d="M501.45453 325.02779C571.27271 325.02779 664.36362 150.71911 734.1818 150.71911" fill="none" stroke-width="4.29386" stroke="#7f7f7f" opacity="0.8"><title>Admin and Central Costs → Comms: £5,000</title></path>
+<path id="flow39" d="M501.45453 725.90121C571.27271 725.90121 664.36362 733.42059 734.1818 733.42059" fill="none" stroke-width="4.29386" stroke="#bcbd22" opacity="0.8"><title>Site Services → Transporting District equipment: £5,000</title></path>
+<path id="flow64" d="M256.72727 778.09463C326.54545 778.09463 419.63635 796.0755 489.45453 796.0755" fill="none" stroke-width="4.29386" stroke="#1f77b4" opacity="0.8"><title>Budget → Contingency: £5,000</title></path>
+<path id="flow34" d="M501.45453 711.02298C571.27271 711.02298 664.36362 599.32476 734.1818 599.32476" fill="none" stroke-width="4.07917" stroke="#9467bd" opacity="0.8"><title>Site Services → Tables &amp; Chairs: £4,750</title></path>
+<path id="flow17" d="M256.72727 649.36466C326.54545 649.36466 419.63635 476.24051 489.45453 476.24051" fill="none" stroke-width="3.86448" stroke="#1f77b4" opacity="0.8"><title>Budget → Pre-Camp: £4,500</title></path>
+<path id="flow22" d="M501.45453 503.9485C571.27271 503.9485 664.36362 323.76914 734.1818 323.76914" fill="none" stroke-width="3.86448" stroke="#9467bd" opacity="0.8"><title>Café and Bar Expenses → Stock (Food/Drink etc.): £4,500</title></path>
+<path id="flow23" d="M501.45453 507.81298C571.27271 507.81298 664.36362 351.47713 734.1818 351.47713" fill="none" stroke-width="3.86448" stroke="#8c564b" opacity="0.8"><title>Café and Bar Expenses → Bar and Central Cafe Marquees: £4,500</title></path>
+<path id="flow52" d="M501.45453 935.09942C571.27271 935.09942 664.36362 1084.12249 734.1818 1084.12249" fill="none" stroke-width="3.86448" stroke="#2ca02c" opacity="0.8"><title>Programme → Travel / Camp Fees for Programme Participants: £4,500</title></path>
+<path id="flow16" d="M501.45453 447.37317C571.27271 447.37317 664.36362 271.05828 734.1818 271.05828" fill="none" stroke-width="3.60684" stroke="#17becf" opacity="0.8"><title>Food and Food Infrastructure → Food Infrastructure: £4,200</title></path>
+<path id="flow33" d="M501.45453 707.26585C571.27271 707.26585 664.36362 571.72411 734.1818 571.72411" fill="none" stroke-width="3.43509" stroke="#d62728" opacity="0.8"><title>Site Services → Stage: £4,000</title></path>
+<path id="flow55" d="M501.45453 1084.04229C571.27271 1084.04229 664.36362 1225.6304 734.1818 1225.6304" fill="none" stroke-width="3.43509" stroke="#ff7f0e" opacity="0.8"><title>People Costs → Other Staff Costs (Hiring, Travel etc.): £4,000</title></path>
+<path id="flow46" d="M501.45453 767.07935C571.27271 767.07935 664.36362 941.50335 734.1818 941.50335" fill="none" stroke-width="2.57632" stroke="#d62728" opacity="0.8"><title>Site Services → Waste: £3,000</title></path>
+<path id="flow8" d="M501.45453 317.38128C571.27271 317.38128 664.36362 47.69852 734.1818 47.69852" fill="none" stroke-width="2.41143" stroke="#9467bd" opacity="0.8"><title>Admin and Central Costs → Shuttle buses from local station: £2,808</title></path>
+<path id="flow28" d="M501.45453 569.25039C571.27271 569.25039 664.36362 480.74236 734.1818 480.74236" fill="none" stroke-width="2.14693" stroke="#1f77b4" opacity="0.8"><title>Organisation Meetings → Venue hire: £2,500</title></path>
+<path id="flow56" d="M501.45453 1086.8333C571.27271 1086.8333 664.36362 1252.26493 734.1818 1252.26493" fill="none" stroke-width="2.14693" stroke="#2ca02c" opacity="0.8"><title>People Costs → IT equipment phones: £2,500</title></path>
+<path id="flow29" d="M501.45453 571.35438C571.27271 571.35438 664.36362 506.68987 734.1818 506.68987" fill="none" stroke-width="2.06105" stroke="#ff7f0e" opacity="0.8"><title>Organisation Meetings → Meeting Food: £2,400</title></path>
+<path id="flow38" d="M501.45453 722.78816C571.27271 722.78816 664.36362 706.46402 734.1818 706.46402" fill="none" stroke-width="1.93224" stroke="#7f7f7f" opacity="0.8"><title>Site Services → Equipment &amp; Supplies: £2,250</title></path>
+<path id="flow10" d="M501.45453 320.30454C571.27271 320.30454 664.36362 98.30882 734.1818 98.30882" fill="none" stroke-width="1.71754" stroke="#e377c2" opacity="0.8"><title>Admin and Central Costs → Wristbands + Pocket Guides: £2,000</title></path>
+<path id="flow11" d="M501.45453 322.02208C571.27271 322.02208 664.36362 123.86988 734.1818 123.86988" fill="none" stroke-width="1.71754" stroke="#2ca02c" opacity="0.8"><title>Admin and Central Costs → Admin costs (misc): £2,000</title></path>
+<path id="flow36" d="M501.45453 719.93275C571.27271 719.93275 664.36362 655.92156 734.1818 655.92156" fill="none" stroke-width="1.71754" stroke="#e377c2" opacity="0.8"><title>Site Services → Water: £2,000</title></path>
+<path id="flow47" d="M501.45453 769.22628C571.27271 769.22628 664.36362 967.4938 734.1818 967.4938" fill="none" stroke-width="1.71754" stroke="#9467bd" opacity="0.8"><title>Site Services → Store: £2,000</title></path>
+<path id="flow51" d="M501.45453 932.30841C571.27271 932.30841 664.36362 1057.48796 734.1818 1057.48796" fill="none" stroke-width="1.71754" stroke="#bcbd22" opacity="0.8"><title>Programme → Towns: £2,000</title></path>
+<path id="flow59" d="M501.45453 1090.05369C571.27271 1090.05369 664.36362 1327.01589 734.1818 1327.01589" fill="none" stroke-width="1.71754" stroke="#8c564b" opacity="0.8"><title>People Costs → Accessibility: £2,000</title></path>
+<path id="flow61" d="M501.45453 1092.20062C571.27271 1092.20062 664.36362 1376.84985 734.1818 1376.84985" fill="none" stroke-width="1.71754" stroke="#7f7f7f" opacity="0.8"><title>People Costs → Working week/Take Down: £2,000</title></path>
+<path id="flow18" d="M501.45453 476.24051C571.27271 476.24051 664.36362 297.3493 734.1818 297.3493" fill="none" stroke-width="1.28816" stroke="#ff7f0e" opacity="0.8"><title>Pre-Camp → Toilets and Showers: £1,500</title></path>
+<path id="flow19" d="M501.45453 474.95235C571.27271 474.95235 664.36362 244.76726 734.1818 244.76726" fill="none" stroke-width="1.28816" stroke="#17becf" opacity="0.8"><title>Pre-Camp → Food: £1,500</title></path>
+<path id="flow20" d="M501.45453 477.52867C571.27271 477.52867 664.36362 450.02866 734.1818 450.02866" fill="none" stroke-width="1.28816" stroke="#2ca02c" opacity="0.8"><title>Pre-Camp → Travel: £1,500</title></path>
+<path id="flow63" d="M501.45453 1115.06544C571.27271 1115.06544 664.36362 1447.4017 734.1818 1447.4017" fill="none" stroke-width="1.07347" stroke="#17becf" opacity="0.8"><title>People Costs → Extra Solidarity Spaces: £1,250</title></path>
+<path id="flow37" d="M501.45453 721.30678C571.27271 721.30678 664.36362 681.13912 734.1818 681.13912" fill="none" stroke-width="1.03053" stroke="#7f7f7f" opacity="0.8"><title>Site Services → Flatbed: £1,200</title></path>
+<path id="flow9" d="M501.45453 319.01638C571.27271 319.01638 664.36362 73.17714 734.1818 73.17714" fill="none" stroke-width="1" stroke="#8c564b" opacity="0.8"><title>Admin and Central Costs → Insurance: £1,000</title></path>
+<path id="flow40" d="M501.45453 728.47753C571.27271 728.47753 664.36362 759.84042 734.1818 759.84042" fill="none" stroke-width="1" stroke="#17becf" opacity="0.8"><title>Site Services → 7.5 Tonne Licence: £1,000</title></path>
+<path id="flow58" d="M501.45453 1088.76553C571.27271 1088.76553 664.36362 1301.88421 734.1818 1301.88421" fill="none" stroke-width="1" stroke="#9467bd" opacity="0.8"><title>People Costs → Volunteer Support: £1,000</title></path>
+<path id="flow43" d="M501.45453 759.28599C571.27271 759.28599 664.36362 862.17943 734.1818 862.17943" fill="none" stroke-width="1" stroke="#bcbd22" opacity="0.8"><title>Site Services → Decoration and signs: £750</title></path>
+<path id="flow57" d="M501.45453 1088.12146C571.27271 1088.12146 664.36362 1277.39661 734.1818 1277.39661" fill="none" stroke-width="1" stroke="#d62728" opacity="0.8"><title>People Costs → Wifi at camp: £500</title></path>
+<path id="flow60" d="M501.45453 1091.12716C571.27271 1091.12716 664.36362 1351.93287 734.1818 1351.93287" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.8"><title>People Costs → Youth Participation: £500</title></path>
+<path id="flow5" d="M12 1030.91396C81.81818 1030.91396 174.90909 956.02538 244.72727 956.02538" fill="none" stroke-width="1" stroke="#057" opacity="0.8"><title>Donations → Budget: £300</title></path>
+<path id="flow25" d="M501.45453 510.02432C571.27271 510.02432 664.36362 401.37551 734.1818 401.37551" fill="none" stroke-width="1" stroke="#7f7f7f" opacity="0.8"><title>Café and Bar Expenses → Equipment: £250</title></path>
+<path id="flow26" d="M501.45453 510.23901C571.27271 510.23901 664.36362 425.43372 734.1818 425.43372" fill="none" stroke-width="1" stroke="#bcbd22" opacity="0.8"><title>Café and Bar Expenses → Decoration: £250</title></path>
+<path id="flow24" d="M501.45453 509.83109C571.27271 509.83109 664.36362 377.33877 734.1818 377.33877" fill="none" stroke-width="1" stroke="#e377c2" opacity="0.8"><title>Café and Bar Expenses → Licenses: £200</title></path>
+<path id="flow44" d="M501.45453 759.6939C571.27271 759.6939 664.36362 886.43087 734.1818 886.43087" fill="none" stroke-width="1" stroke="#ff7f0e" opacity="0.8"><title>Site Services → Loud hailers for emergency evacuation: £200</title></path>
+</g>
+<g id="sankey_nodes">
+<g class="node">
+<rect id="r0" class="for_r0" x="0" y="511.2079" height="20.61054" width="12" fill="#e377c2" fill-opacity="1"><title>3-Day Campers:
+£24,000</title></rect>
+</g>
+<g class="node">
+<rect id="r1" class="for_r1" x="244.72727" y="555.53692" height="400.61728" width="12" fill="#057" fill-opacity="1"><title>Budget:
+£466,500</title></rect>
+</g>
+<g class="node">
+<rect id="r2" class="for_r2" x="0" y="555.66196" height="54.10266" width="12" fill="#7f7f7f" fill-opacity="1"><title>7-Day Campers:
+£63,000</title></rect>
+</g>
+<g class="node">
+<rect id="r3" class="for_r3" x="0" y="633.60813" height="295.84706" width="12" fill="#bcbd22" fill-opacity="1"><title>10-Day Campers:
+£344,500</title></rect>
+</g>
+<g class="node">
+<rect id="r4" class="for_r4" x="0" y="953.29871" height="21.46931" width="12" fill="#17becf" fill-opacity="1"><title>Grants:
+£25,000</title></rect>
+</g>
+<g class="node">
+<rect id="r5" class="for_r5" x="0" y="998.61154" height="8.33009" width="12" fill="#1f77b4" fill-opacity="1"><title>Cafés and Bar Income:
+£9,700</title></rect>
+</g>
+<g class="node">
+<rect id="r6" class="for_r6" x="0" y="1030.78515" height="0.25763" width="12" fill="#ff7f0e" fill-opacity="1"><title>Donations:
+£300</title></rect>
+</g>
+<g class="node">
+<rect id="r7" class="for_r7" x="489.45453" y="307.58784" height="19.58688" width="12" fill="#2ca02c" fill-opacity="1"><title>Admin and Central Costs:
+£22,808</title></rect>
+</g>
+<g class="node">
+<rect id="r8" class="for_r8" x="734.1818" y="14.06156" height="8.58772" width="12" fill="#d62728" fill-opacity="1"><title>International Solidarity:
+£10,000</title></rect>
+</g>
+<g class="node">
+<rect id="r9" class="for_r9" x="734.1818" y="46.4928" height="2.41143" width="12" fill="#9467bd" fill-opacity="1"><title>Shuttle buses from local station:
+£2,808</title></rect>
+</g>
+<g class="node">
+<rect id="r10" class="for_r10" x="734.1818" y="72.74776" height="0.85877" width="12" fill="#8c564b" fill-opacity="1"><title>Insurance:
+£1,000</title></rect>
+</g>
+<g class="node">
+<rect id="r11" class="for_r11" x="734.1818" y="97.45005" height="1.71754" width="12" fill="#e377c2" fill-opacity="1"><title>Wristbands + Pocket Guides:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r12" class="for_r12" x="734.1818" y="123.01111" height="1.71754" width="12" fill="#2ca02c" fill-opacity="1"><title>Admin costs (misc):
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r13" class="for_r13" x="734.1818" y="148.57217" height="4.29386" width="12" fill="#7f7f7f" fill-opacity="1"><title>Comms:
+£5,000</title></rect>
+</g>
+<g class="node">
+<rect id="r14" class="for_r14" x="489.45453" y="639.28144" height="27.82422" width="12" fill="#bcbd22" fill-opacity="1"><title>Site Cost:
+£32,400</title></rect>
+</g>
+<g class="node">
+<rect id="r15" class="for_r15" x="489.45453" y="378.15613" height="72.30863" width="12" fill="#17becf" fill-opacity="1"><title>Food and Food Infrastructure:
+£84,200</title></rect>
+</g>
+<g class="node">
+<rect id="r16" class="for_r16" x="734.1818" y="176.70956" height="68.70178" width="12" fill="#17becf" fill-opacity="1"><title>Food:
+£80,000</title></rect>
+</g>
+<g class="node">
+<rect id="r17" class="for_r17" x="734.1818" y="269.25486" height="3.60684" width="12" fill="#17becf" fill-opacity="1"><title>Food Infrastructure:
+£4,200</title></rect>
+</g>
+<g class="node">
+<rect id="r18" class="for_r18" x="489.45453" y="474.30827" height="3.86448" width="12" fill="#1f77b4" fill-opacity="1"><title>Pre-Camp:
+£4,500</title></rect>
+</g>
+<g class="node">
+<rect id="r19" class="for_r19" x="734.1818" y="296.70522" height="1.28816" width="12" fill="#ff7f0e" fill-opacity="1"><title>Toilets and Showers:
+£1,500</title></rect>
+</g>
+<g class="node">
+<rect id="r20" class="for_r20" x="734.1818" y="449.38459" height="6.44079" width="12" fill="#2ca02c" fill-opacity="1"><title>Travel:
+£7,500</title></rect>
+</g>
+<g class="node">
+<rect id="r21" class="for_r21" x="489.45453" y="502.01627" height="8.33009" width="12" fill="#d62728" fill-opacity="1"><title>Café and Bar Expenses:
+£9,700</title></rect>
+</g>
+<g class="node">
+<rect id="r22" class="for_r22" x="734.1818" y="321.8369" height="3.86448" width="12" fill="#9467bd" fill-opacity="1"><title>Stock (Food/Drink etc.):
+£4,500</title></rect>
+</g>
+<g class="node">
+<rect id="r23" class="for_r23" x="734.1818" y="349.54489" height="3.86448" width="12" fill="#8c564b" fill-opacity="1"><title>Bar and Central Cafe Marquees:
+£4,500</title></rect>
+</g>
+<g class="node">
+<rect id="r24" class="for_r24" x="734.1818" y="377.25289" height="0.17175" width="12" fill="#e377c2" fill-opacity="1"><title>Licenses:
+£200</title></rect>
+</g>
+<g class="node">
+<rect id="r25" class="for_r25" x="734.1818" y="401.26816" height="0.21469" width="12" fill="#7f7f7f" fill-opacity="1"><title>Equipment:
+£250</title></rect>
+</g>
+<g class="node">
+<rect id="r26" class="for_r26" x="734.1818" y="425.32637" height="0.21469" width="12" fill="#bcbd22" fill-opacity="1"><title>Decoration:
+£250</title></rect>
+</g>
+<g class="node">
+<rect id="r27" class="for_r27" x="489.45453" y="563.02429" height="9.36062" width="12" fill="#17becf" fill-opacity="1"><title>Organisation Meetings:
+£10,900</title></rect>
+</g>
+<g class="node">
+<rect id="r28" class="for_r28" x="734.1818" y="479.6689" height="2.14693" width="12" fill="#1f77b4" fill-opacity="1"><title>Venue hire:
+£2,500</title></rect>
+</g>
+<g class="node">
+<rect id="r29" class="for_r29" x="734.1818" y="505.65935" height="2.06105" width="12" fill="#ff7f0e" fill-opacity="1"><title>Meeting Food:
+£2,400</title></rect>
+</g>
+<g class="node">
+<rect id="r30" class="for_r30" x="489.45453" y="690.94918" height="79.13587" width="12" fill="#bcbd22" fill-opacity="1"><title>Site Services:
+£92,150</title></rect>
+</g>
+<g class="node">
+<rect id="r31" class="for_r31" x="734.1818" y="531.56392" height="14.59913" width="12" fill="#2ca02c" fill-opacity="1"><title>Marquees:
+£17,000</title></rect>
+</g>
+<g class="node">
+<rect id="r32" class="for_r32" x="734.1818" y="570.00657" height="3.43509" width="12" fill="#d62728" fill-opacity="1"><title>Stage:
+£4,000</title></rect>
+</g>
+<g class="node">
+<rect id="r33" class="for_r33" x="734.1818" y="597.28518" height="4.07917" width="12" fill="#9467bd" fill-opacity="1"><title>Tables &amp; Chairs:
+£4,750</title></rect>
+</g>
+<g class="node">
+<rect id="r34" class="for_r34" x="734.1818" y="625.20786" height="6.01141" width="12" fill="#8c564b" fill-opacity="1"><title>Gas:
+£7,000</title></rect>
+</g>
+<g class="node">
+<rect id="r35" class="for_r35" x="734.1818" y="655.06279" height="1.71754" width="12" fill="#e377c2" fill-opacity="1"><title>Water:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r36" class="for_r36" x="734.1818" y="680.62385" height="1.03053" width="12" fill="#7f7f7f" fill-opacity="1"><title>Flatbed:
+£1,200</title></rect>
+</g>
+<g class="node">
+<rect id="r37" class="for_r37" x="734.1818" y="705.4979" height="1.93224" width="12" fill="#7f7f7f" fill-opacity="1"><title>Equipment &amp; Supplies:
+£2,250</title></rect>
+</g>
+<g class="node">
+<rect id="r38" class="for_r38" x="734.1818" y="731.27365" height="4.29386" width="12" fill="#bcbd22" fill-opacity="1"><title>Transporting District equipment:
+£5,000</title></rect>
+</g>
+<g class="node">
+<rect id="r39" class="for_r39" x="734.1818" y="759.41103" height="0.85877" width="12" fill="#17becf" fill-opacity="1"><title>7.5 Tonne Licence:
+£1,000</title></rect>
+</g>
+<g class="node">
+<rect id="r40" class="for_r40" x="734.1818" y="784.11333" height="18.89299" width="12" fill="#ff7f0e" fill-opacity="1"><title>Toilets:
+£22,000</title></rect>
+</g>
+<g class="node">
+<rect id="r41" class="for_r41" x="734.1818" y="826.84984" height="11.16404" width="12" fill="#1f77b4" fill-opacity="1"><title>Showers:
+£13,000</title></rect>
+</g>
+<g class="node">
+<rect id="r42" class="for_r42" x="734.1818" y="861.85739" height="0.64408" width="12" fill="#bcbd22" fill-opacity="1"><title>Decoration and signs:
+£750</title></rect>
+</g>
+<g class="node">
+<rect id="r43" class="for_r43" x="734.1818" y="886.34499" height="0.17175" width="12" fill="#ff7f0e" fill-opacity="1"><title>Loud hailers for emergency evacuation:
+£200</title></rect>
+</g>
+<g class="node">
+<rect id="r44" class="for_r44" x="734.1818" y="910.36027" height="6.01141" width="12" fill="#2ca02c" fill-opacity="1"><title>Electricity:
+£7,000</title></rect>
+</g>
+<g class="node">
+<rect id="r45" class="for_r45" x="734.1818" y="940.21519" height="2.57632" width="12" fill="#d62728" fill-opacity="1"><title>Waste:
+£3,000</title></rect>
+</g>
+<g class="node">
+<rect id="r46" class="for_r46" x="734.1818" y="966.63503" height="1.71754" width="12" fill="#9467bd" fill-opacity="1"><title>Store:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r47" class="for_r47" x="489.45453" y="914.70358" height="22.32808" width="12" fill="#8c564b" fill-opacity="1"><title>Programme:
+£26,000</title></rect>
+</g>
+<g class="node">
+<rect id="r48" class="for_r48" x="734.1818" y="992.19609" height="6.44079" width="12" fill="#e377c2" fill-opacity="1"><title>Central Programme:
+£7,500</title></rect>
+</g>
+<g class="node">
+<rect id="r49" class="for_r49" x="734.1818" y="1022.4804" height="10.30527" width="12" fill="#7f7f7f" fill-opacity="1"><title>Centres:
+£12,000</title></rect>
+</g>
+<g class="node">
+<rect id="r50" class="for_r50" x="734.1818" y="1056.62919" height="1.71754" width="12" fill="#bcbd22" fill-opacity="1"><title>Towns:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r51" class="for_r51" x="734.1818" y="1082.19025" height="3.86448" width="12" fill="#2ca02c" fill-opacity="1"><title>Travel / Camp Fees for Programme Participants:
+£4,500</title></rect>
+</g>
+<g class="node">
+<rect id="r52" class="for_r52" x="489.45453" y="992.15365" height="123.44852" width="12" fill="#17becf" fill-opacity="1"><title>People Costs:
+£143,750</title></rect>
+</g>
+<g class="node">
+<rect id="r53" class="for_r53" x="734.1818" y="1109.89825" height="90.17109" width="12" fill="#1f77b4" fill-opacity="1"><title>Salary costs:
+£105,000</title></rect>
+</g>
+<g class="node">
+<rect id="r54" class="for_r54" x="734.1818" y="1223.91286" height="3.43509" width="12" fill="#ff7f0e" fill-opacity="1"><title>Other Staff Costs (Hiring, Travel etc.):
+£4,000</title></rect>
+</g>
+<g class="node">
+<rect id="r55" class="for_r55" x="734.1818" y="1251.19147" height="2.14693" width="12" fill="#2ca02c" fill-opacity="1"><title>IT equipment phones:
+£2,500</title></rect>
+</g>
+<g class="node">
+<rect id="r56" class="for_r56" x="734.1818" y="1277.18192" height="0.42939" width="12" fill="#d62728" fill-opacity="1"><title>Wifi at camp:
+£500</title></rect>
+</g>
+<g class="node">
+<rect id="r57" class="for_r57" x="734.1818" y="1301.45482" height="0.85877" width="12" fill="#9467bd" fill-opacity="1"><title>Volunteer Support:
+£1,000</title></rect>
+</g>
+<g class="node">
+<rect id="r58" class="for_r58" x="734.1818" y="1326.15711" height="1.71754" width="12" fill="#8c564b" fill-opacity="1"><title>Accessibility:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r59" class="for_r59" x="734.1818" y="1351.71818" height="0.42939" width="12" fill="#e377c2" fill-opacity="1"><title>Youth Participation:
+£500</title></rect>
+</g>
+<g class="node">
+<rect id="r60" class="for_r60" x="734.1818" y="1375.99108" height="1.71754" width="12" fill="#7f7f7f" fill-opacity="1"><title>Working week/Take Down:
+£2,000</title></rect>
+</g>
+<g class="node">
+<rect id="r61" class="for_r61" x="734.1818" y="1401.55215" height="21.46931" width="12" fill="#bcbd22" fill-opacity="1"><title>Subsidised Places:
+£25,000</title></rect>
+</g>
+<g class="node">
+<rect id="r62" class="for_r62" x="734.1818" y="1446.86497" height="1.07347" width="12" fill="#17becf" fill-opacity="1"><title>Extra Solidarity Spaces:
+£1,250</title></rect>
+</g>
+<g class="node">
+<rect id="r63" class="for_r63" x="489.45453" y="793.92857" height="4.29386" width="12" fill="#1f77b4" fill-opacity="1"><title>Contingency:
+£5,000</title></rect>
+</g>
+<g class="node">
+<rect id="r64" class="for_r64" x="489.45453" y="822.06595" height="30.13604" width="12" fill="#ff7f0e" fill-opacity="1"><title>Surplus:
+£35,092</title></rect>
+</g>
+</g>
+<g id="sankey_labels" font-family="sans-serif" font-size="16px" fill="#000000">
+<text text-anchor="middle" x="387.98152" y="1476" font-size="14.34965px" font-weight="400" fill="#336781">Made at SankeyMATIC.com</text>
+<rect id="label0_bg" class="for_r0" x="-89.0966" y="508.08264" width="87.90109" height="25.82104" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label0" class="for_r0" text-anchor="end" x="-6.29754" y="521.51317" font-weight="400" font-size="11.10897px" dy="-0.43052">3-Day Campers<tspan x="-6.29754" dy="8.82105" font-weight="400" font-size="6.52431px">£24,000</tspan></text>
+<rect id="label1_bg" class="for_r1" x="198.14055" y="724.40955" width="106.17152" height="61.01202" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label1" class="for_r1" text-anchor="middle" x="250.72727" y="755.84556" font-weight="400" font-size="30.24px" dy="-1.43601">Budget<tspan x="250.72727" dy="24.012" font-weight="400" font-size="17.76px">£466,500</tspan></text>
+<rect id="label2_bg" class="for_r2" x="-100.92473" y="567.48334" width="100.10578" height="30.15991" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label2" class="for_r2" text-anchor="end" x="-6.29754" y="582.71329" font-weight="400" font-size="12.79509px" dy="-0.22996">7-Day Campers<tspan x="-6.29754" dy="10.15991" font-weight="400" font-size="7.51458px">£63,000</tspan></text>
+<rect id="label3_bg" class="for_r3" x="-200.01848" y="754.73981" width="198.38578" height="51.82373" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label3" class="for_r3" text-anchor="end" x="-6.29754" y="781.53166" font-weight="400" font-size="24.96546px" dy="-0.79187">10-Day Campers<tspan x="-6.29754" dy="19.82376" font-weight="400" font-size="14.66225px">£344,500</tspan></text>
+<rect id="label4_bg" class="for_r4" x="-44.83098" y="950.58569" width="43.6154" height="25.85535" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label4" class="for_r4" text-anchor="end" x="-6.29754" y="964.03336" font-weight="400" font-size="11.1522px" dy="-0.4477">Grants<tspan x="-6.29754" dy="8.85538" font-weight="400" font-size="6.54971px">£25,000</tspan></text>
+<rect id="label5_bg" class="for_r5" x="-115.73723" y="990.30145" width="114.67577" height="24.33014" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label5" class="for_r5" text-anchor="end" x="-6.29754" y="1002.77658" font-weight="400" font-size="10.49072px" dy="-0.47507">Cafés and Bar Income<tspan x="-6.29754" dy="8.33013" font-weight="400" font-size="6.16122px">£9,700</tspan></text>
+<rect id="label6_bg" class="for_r6" x="-56.75285" y="1018.60022" width="55.82554" height="24.00745" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label6" class="for_r6" text-anchor="end" x="-6.29754" y="1030.91396" font-weight="400" font-size="10.08432px" dy="-0.31372">Donations<tspan x="-6.29754" dy="8.00743" font-weight="400" font-size="5.92254px">£300</tspan></text>
+<rect id="label7_bg" class="for_r7" x="428.36781" y="303.97119" width="134.03855" height="25.78015" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label7" class="for_r7" text-anchor="middle" x="495.45453" y="317.38128" font-weight="400" font-size="11.05743px" dy="-0.41008">Admin and Central Costs<tspan x="495.45453" dy="8.78013" font-weight="400" font-size="6.49405px">£22,808</tspan></text>
+<rect id="label8_bg" class="for_r8" x="746.81453" y="5.16519" width="115.37211" height="25.34043" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label8" class="for_r8" text-anchor="start" x="752.47934" y="18.35542" font-weight="400" font-size="10.50369px" dy="-0.19023">International Solidarity<tspan x="752.47934" dy="8.34043" font-weight="400" font-size="6.16884px">£10,000</tspan></text>
+<rect id="label9_bg" class="for_r9" x="746.81453" y="35.34177" width="152.52891" height="24.09353" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label9" class="for_r9" text-anchor="start" x="752.47934" y="47.69852" font-weight="400" font-size="10.19275px" dy="-0.35675">Shuttle buses from local station<tspan x="752.47934" dy="8.09353" font-weight="400" font-size="5.98622px">£2,808</tspan></text>
+<rect id="label10_bg" class="for_r10" x="746.81453" y="60.85142" width="55.46745" height="24.03146" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label10" class="for_r10" text-anchor="start" x="752.47934" y="73.17714" font-weight="400" font-size="10.11459px" dy="-0.32572">Insurance<tspan x="752.47934" dy="8.03146" font-weight="400" font-size="5.94031px">£1,000</tspan></text>
+<rect id="label11_bg" class="for_r11" x="746.81453" y="85.96592" width="138.90141" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label11" class="for_r11" text-anchor="start" x="752.47934" y="98.30882" font-weight="400" font-size="10.15782px" dy="-0.3429">Wristbands + Pocket Guides<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label12_bg" class="for_r12" x="746.81453" y="111.52698" width="97.06937" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label12" class="for_r12" text-anchor="start" x="752.47934" y="123.86988" font-weight="400" font-size="10.15782px" dy="-0.3429">Admin costs (misc)<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label13_bg" class="for_r13" x="746.81453" y="138.32474" width="46.15141" height="24.16878" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label13" class="for_r13" text-anchor="start" x="752.47934" y="150.71911" font-weight="400" font-size="10.28752px" dy="-0.39438">Comms<tspan x="752.47934" dy="8.16878" font-weight="400" font-size="6.04188px">£5,000</tspan></text>
+<rect id="label14_bg" class="for_r14" x="502.08723" y="639.61884" width="58.07798" height="26.10944" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label14" class="for_r14" text-anchor="start" x="507.75207" y="653.19355" font-weight="400" font-size="11.47213px" dy="-0.57472">Site Cost<tspan x="507.75207" dy="9.10942" font-weight="400" font-size="6.7376px">£32,400</tspan></text>
+<rect id="label15_bg" class="for_r15" x="402.00062" y="398.71658" width="187.67185" height="30.8877" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label15" class="for_r15" text-anchor="middle" x="495.45453" y="414.31044" font-weight="400" font-size="13.71165px" dy="-0.59385">Food and Food Infrastructure<tspan x="495.45453" dy="10.88771" font-weight="400" font-size="8.05288px">£84,200</tspan></text>
+<rect id="label16_bg" class="for_r16" x="746.81453" y="195.53868" width="42.04362" height="30.74353" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label16" class="for_r16" text-anchor="start" x="752.47934" y="211.06045" font-weight="400" font-size="13.53007px" dy="-0.52177">Food<tspan x="752.47934" dy="10.74352" font-weight="400" font-size="7.94623px">£80,000</tspan></text>
+<rect id="label17_bg" class="for_r17" x="746.81453" y="258.67764" width="97.62345" height="24.14133" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label17" class="for_r17" text-anchor="start" x="752.47934" y="271.05828" font-weight="400" font-size="10.25294px" dy="-0.38065">Food Infrastructure<tspan x="752.47934" dy="8.14132" font-weight="400" font-size="6.02157px">£4,200</tspan></text>
+<rect id="label18_bg" class="for_r18" x="467.40687" y="463.85471" width="56.77451" height="24.15161" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label18" class="for_r18" text-anchor="middle" x="495.45453" y="476.24051" font-weight="400" font-size="10.26591px" dy="-0.38581">Pre-Camp<tspan x="495.45453" dy="8.15162" font-weight="400" font-size="6.02918px">£4,500</tspan></text>
+<rect id="label19_bg" class="for_r19" x="746.81453" y="285.01498" width="101.38578" height="24.04861" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label19" class="for_r19" text-anchor="start" x="752.47934" y="297.3493" font-weight="400" font-size="10.1362px" dy="-0.33432">Toilets and Showers<tspan x="752.47934" dy="8.04863" font-weight="400" font-size="5.95301px">£1,500</tspan></text>
+<rect id="label20_bg" class="for_r20" x="746.81453" y="440.16766" width="39.21391" height="24.25461" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label20" class="for_r20" text-anchor="start" x="752.47934" y="452.60498" font-weight="400" font-size="10.39561px" dy="-0.43732">Travel<tspan x="752.47934" dy="8.25461" font-weight="400" font-size="6.10536px">£7,500</tspan></text>
+<rect id="label21_bg" class="for_r21" x="435.39125" y="493.70624" width="120.52641" height="24.33014" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label21" class="for_r21" text-anchor="middle" x="495.45453" y="506.18131" font-weight="400" font-size="10.49072px" dy="-0.47507">Café and Bar Expenses<tspan x="495.45453" dy="8.33013" font-weight="400" font-size="6.16122px">£9,700</tspan></text>
+<rect id="label22_bg" class="for_r22" x="746.81453" y="311.38333" width="116.22227" height="24.15161" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label22" class="for_r22" text-anchor="start" x="752.47934" y="323.76914" font-weight="400" font-size="10.26591px" dy="-0.38581">Stock (Food/Drink etc.)<tspan x="752.47934" dy="8.15162" font-weight="400" font-size="6.02918px">£4,500</tspan></text>
+<rect id="label23_bg" class="for_r23" x="746.81453" y="339.09134" width="155.58891" height="24.15161" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label23" class="for_r23" text-anchor="start" x="752.47934" y="351.47713" font-weight="400" font-size="10.26591px" dy="-0.38581">Bar and Central Cafe Marquees<tspan x="752.47934" dy="8.15162" font-weight="400" font-size="6.02918px">£4,500</tspan></text>
+<rect id="label24_bg" class="for_r24" x="746.81453" y="365.02676" width="50.52641" height="24.004" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label24" class="for_r24" text-anchor="start" x="752.47934" y="377.33877" font-weight="400" font-size="10.08px" dy="-0.31201">Licenses<tspan x="752.47934" dy="8.004" font-weight="400" font-size="5.92px">£200</tspan></text>
+<rect id="label25_bg" class="for_r25" x="746.81453" y="389.06265" width="59.11894" height="24.00571" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label25" class="for_r25" text-anchor="start" x="752.47934" y="401.37551" font-weight="400" font-size="10.08216px" dy="-0.31287">Equipment<tspan x="752.47934" dy="8.00572" font-weight="400" font-size="5.92127px">£250</tspan></text>
+<rect id="label26_bg" class="for_r26" x="746.81453" y="413.12085" width="59.86967" height="24.00571" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label26" class="for_r26" text-anchor="start" x="752.47934" y="425.43372" font-weight="400" font-size="10.08216px" dy="-0.31287">Decoration<tspan x="752.47934" dy="8.00572" font-weight="400" font-size="5.92127px">£250</tspan></text>
+<rect id="label27_bg" class="for_r27" x="438.05531" y="554.4989" width="115.91593" height="25.37134" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label27" class="for_r27" text-anchor="middle" x="495.45453" y="567.7046" font-weight="400" font-size="10.5426px" dy="-0.20567">Organisation Meetings<tspan x="495.45453" dy="8.37133" font-weight="400" font-size="6.19169px">£10,900</tspan></text>
+<rect id="label28_bg" class="for_r28" x="746.81453" y="468.3909" width="59.70371" height="24.08295" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label28" class="for_r28" text-anchor="start" x="752.47934" y="480.74236" font-weight="400" font-size="10.17944px" dy="-0.35147">Venue hire<tspan x="752.47934" dy="8.08296" font-weight="400" font-size="5.9784px">£2,500</tspan></text>
+<rect id="label29_bg" class="for_r29" x="746.81453" y="494.34012" width="73.26042" height="24.07956" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label29" class="for_r29" text-anchor="start" x="752.47934" y="506.68987" font-weight="400" font-size="10.17511px" dy="-0.34976">Meeting Food<tspan x="752.47934" dy="8.07953" font-weight="400" font-size="5.97586px">£2,400</tspan></text>
+<rect id="label30_bg" class="for_r30" x="449.78969" y="714.07678" width="91.72953" height="32.16064" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label30" class="for_r30" text-anchor="middle" x="495.45453" y="730.51711" font-weight="400" font-size="14.05536px" dy="-0.44032">Site Services<tspan x="495.45453" dy="11.16063" font-weight="400" font-size="8.25474px">£92,150</tspan></text>
+<rect id="label31_bg" class="for_r31" x="746.81453" y="525.5531" width="59.35465" height="25.58075" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label31" class="for_r31" text-anchor="start" x="752.47934" y="538.86348" font-weight="400" font-size="10.80633px" dy="-0.31037">Marquees<tspan x="752.47934" dy="8.58074" font-weight="400" font-size="6.34658px">£17,000</tspan></text>
+<rect id="label32_bg" class="for_r32" x="746.81453" y="559.34686" width="37.79447" height="24.13446" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label32" class="for_r32" text-anchor="start" x="752.47934" y="571.72411" font-weight="400" font-size="10.24429px" dy="-0.37723">Stage<tspan x="752.47934" dy="8.13445" font-weight="400" font-size="6.01649px">£4,000</tspan></text>
+<rect id="label33_bg" class="for_r33" x="746.81453" y="586.93463" width="82.65141" height="24.16022" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label33" class="for_r33" text-anchor="start" x="752.47934" y="599.32476" font-weight="400" font-size="10.27671px" dy="-0.39011">Tables &amp; Chairs<tspan x="752.47934" dy="8.1602" font-weight="400" font-size="6.03553px">£4,750</tspan></text>
+<rect id="label34_bg" class="for_r34" x="746.81453" y="615.78485" width="29.9694" height="24.23743" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label34" class="for_r34" text-anchor="start" x="752.47934" y="628.21357" font-weight="400" font-size="10.37399px" dy="-0.42871">Gas<tspan x="752.47934" dy="8.23744" font-weight="400" font-size="6.09266px">£7,000</tspan></text>
+<rect id="label35_bg" class="for_r35" x="746.81453" y="643.57867" width="38.04276" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label35" class="for_r35" text-anchor="start" x="752.47934" y="655.92156" font-weight="400" font-size="10.15782px" dy="-0.3429">Water<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label36_bg" class="for_r36" x="746.81453" y="668.80994" width="44.85594" height="24.03833" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label36" class="for_r36" text-anchor="start" x="752.47934" y="681.13912" font-weight="400" font-size="10.12323px" dy="-0.32917">Flatbed<tspan x="752.47934" dy="8.03833" font-weight="400" font-size="5.94539px">£1,200</tspan></text>
+<rect id="label37_bg" class="for_r37" x="746.81453" y="694.11682" width="110.69828" height="24.0744" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label37" class="for_r37" text-anchor="start" x="752.47934" y="706.46402" font-weight="400" font-size="10.16863px" dy="-0.3472">Equipment &amp; Supplies<tspan x="752.47934" dy="8.07438" font-weight="400" font-size="5.97205px">£2,250</tspan></text>
+<rect id="label38_bg" class="for_r38" x="746.81453" y="721.02618" width="153.32749" height="24.16882" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label38" class="for_r38" text-anchor="start" x="752.47934" y="733.42059" font-weight="400" font-size="10.28752px" dy="-0.39438">Transporting District equipment<tspan x="752.47934" dy="8.16878" font-weight="400" font-size="6.04188px">£5,000</tspan></text>
+<rect id="label39_bg" class="for_r39" x="746.81453" y="747.51465" width="92.91337" height="24.03149" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label39" class="for_r39" text-anchor="start" x="752.47934" y="759.84042" font-weight="400" font-size="10.11459px" dy="-0.32572">7.5 Tonne Licence<tspan x="752.47934" dy="8.03146" font-weight="400" font-size="5.94031px">£1,000</tspan></text>
+<rect id="label40_bg" class="for_r40" x="746.81453" y="780.16364" width="42.45536" height="25.75238" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label40" class="for_r40" text-anchor="start" x="752.47934" y="793.55982" font-weight="400" font-size="11.0225px" dy="-0.39619">Toilets<tspan x="752.47934" dy="8.75239" font-weight="400" font-size="6.47353px">£22,000</tspan></text>
+<rect id="label41_bg" class="for_r41" x="746.81453" y="819.19019" width="52.77183" height="25.44342" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label41" class="for_r41" text-anchor="start" x="752.47934" y="832.43186" font-weight="400" font-size="10.63339px" dy="-0.24171">Showers<tspan x="752.47934" dy="8.44342" font-weight="400" font-size="6.24501px">£13,000</tspan></text>
+<rect id="label42_bg" class="for_r42" x="746.81453" y="849.85803" width="105.62016" height="24.02283" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label42" class="for_r42" text-anchor="start" x="752.47934" y="862.17943" font-weight="400" font-size="10.10378px" dy="-0.32144">Decoration and signs<tspan x="752.47934" dy="8.02288" font-weight="400" font-size="5.93397px">£750</tspan></text>
+<rect id="label43_bg" class="for_r43" x="746.81453" y="874.11884" width="184.82591" height="24.00403" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label43" class="for_r43" text-anchor="start" x="752.47934" y="886.43087" font-weight="400" font-size="10.08px" dy="-0.31201">Loud hailers for emergency evacuation<tspan x="752.47934" dy="8.004" font-weight="400" font-size="5.92px">£200</tspan></text>
+<rect id="label44_bg" class="for_r44" x="746.81453" y="900.93726" width="55.91062" height="24.23743" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label44" class="for_r44" text-anchor="start" x="752.47934" y="913.36597" font-weight="400" font-size="10.37399px" dy="-0.42871">Electricity<tspan x="752.47934" dy="8.23744" font-weight="400" font-size="6.09266px">£7,000</tspan></text>
+<rect id="label45_bg" class="for_r45" x="746.81453" y="929.14331" width="39.58488" height="24.1001" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label45" class="for_r45" text-anchor="start" x="752.47934" y="941.50335" font-weight="400" font-size="10.20106px" dy="-0.36005">Waste<tspan x="752.47934" dy="8.10012" font-weight="400" font-size="5.9911px">£3,000</tspan></text>
+<rect id="label46_bg" class="for_r46" x="746.81453" y="955.15088" width="35.34446" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label46" class="for_r46" text-anchor="start" x="752.47934" y="967.4938" font-weight="400" font-size="10.15782px" dy="-0.3429">Store<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label47_bg" class="for_r47" x="461.56312" y="912.40277" width="68.18266" height="25.88971" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label47" class="for_r47" text-anchor="middle" x="495.45453" y="925.86762" font-weight="400" font-size="11.19544px" dy="-0.46485">Programme<tspan x="495.45453" dy="8.88971" font-weight="400" font-size="6.5751px">£26,000</tspan></text>
+<rect id="label48_bg" class="for_r48" x="746.81453" y="982.97919" width="101.60471" height="24.25458" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label48" class="for_r48" text-anchor="start" x="752.47934" y="995.41649" font-weight="400" font-size="10.39561px" dy="-0.43732">Central Programme<tspan x="752.47934" dy="8.25461" font-weight="400" font-size="6.10536px">£7,500</tspan></text>
+<rect id="label49_bg" class="for_r49" x="746.81453" y="1014.40845" width="48.51499" height="25.40918" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label49" class="for_r49" text-anchor="start" x="752.47934" y="1027.63304" font-weight="400" font-size="10.59016px" dy="-0.22456">Centres<tspan x="752.47934" dy="8.40909" font-weight="400" font-size="6.21962px">£12,000</tspan></text>
+<rect id="label50_bg" class="for_r50" x="746.81453" y="1045.14502" width="39.51078" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label50" class="for_r50" text-anchor="start" x="752.47934" y="1057.48796" font-weight="400" font-size="10.15782px" dy="-0.3429">Towns<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label51_bg" class="for_r51" x="746.81453" y="1071.73657" width="228.16703" height="24.15173" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label51" class="for_r51" text-anchor="start" x="752.47934" y="1084.12249" font-weight="400" font-size="10.26591px" dy="-0.38581">Travel / Camp Fees for Programme Participants<tspan x="752.47934" dy="8.15162" font-weight="400" font-size="6.02918px">£4,500</tspan></text>
+<rect id="label52_bg" class="for_r52" x="442.36781" y="1035.13196" width="106.57328" height="35.93201" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label52" class="for_r52" text-anchor="middle" x="495.45453" y="1053.87791" font-weight="400" font-size="16.28624px" dy="-0.74603">People Costs<tspan x="495.45453" dy="12.93205" font-weight="400" font-size="9.56493px">£143,750</tspan></text>
+<rect id="label53_bg" class="for_r53" x="746.81453" y="1138.32288" width="90.99473" height="32.60181" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label53" class="for_r53" text-anchor="start" x="752.47934" y="1154.98379" font-weight="400" font-size="14.61092px" dy="-0.66087">Salary costs<tspan x="752.47934" dy="11.60177" font-weight="400" font-size="8.58102px">£105,000</tspan></text>
+<rect id="label54_bg" class="for_r54" x="746.81453" y="1213.25317" width="179.00413" height="24.1344" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label54" class="for_r54" text-anchor="start" x="752.47934" y="1225.6304" font-weight="400" font-size="10.24429px" dy="-0.37723">Other Staff Costs (Hiring, Travel etc.)<tspan x="752.47934" dy="8.13445" font-weight="400" font-size="6.01649px">£4,000</tspan></text>
+<rect id="label55_bg" class="for_r55" x="746.81453" y="1239.91345" width="106.10453" height="24.08289" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label55" class="for_r55" text-anchor="start" x="752.47934" y="1252.26493" font-weight="400" font-size="10.17944px" dy="-0.35147">IT equipment phones<tspan x="752.47934" dy="8.08296" font-weight="400" font-size="5.9784px">£2,500</tspan></text>
+<rect id="label56_bg" class="for_r56" x="746.81453" y="1265.07947" width="66.62272" height="24.01428" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label56" class="for_r56" text-anchor="start" x="752.47934" y="1277.39661" font-weight="400" font-size="10.09297px" dy="-0.31714">Wifi at camp<tspan x="752.47934" dy="8.0143" font-weight="400" font-size="5.92762px">£500</tspan></text>
+<rect id="label57_bg" class="for_r57" x="746.81453" y="1289.55847" width="91.78245" height="24.03137" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label57" class="for_r57" text-anchor="start" x="752.47934" y="1301.88421" font-weight="400" font-size="10.11459px" dy="-0.32572">Volunteer Support<tspan x="752.47934" dy="8.03146" font-weight="400" font-size="5.94031px">£1,000</tspan></text>
+<rect id="label58_bg" class="for_r58" x="746.81453" y="1314.67297" width="66.92936" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label58" class="for_r58" text-anchor="start" x="752.47934" y="1327.01589" font-weight="400" font-size="10.15782px" dy="-0.3429">Accessibility<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label59_bg" class="for_r59" x="746.81453" y="1339.61572" width="94.88749" height="24.01428" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label59" class="for_r59" text-anchor="start" x="752.47934" y="1351.93287" font-weight="400" font-size="10.09297px" dy="-0.31714">Youth Participation<tspan x="752.47934" dy="8.0143" font-weight="400" font-size="5.92762px">£500</tspan></text>
+<rect id="label60_bg" class="for_r60" x="746.81453" y="1364.50696" width="127.67069" height="24.0658" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label60" class="for_r60" text-anchor="start" x="752.47934" y="1376.84985" font-weight="400" font-size="10.15782px" dy="-0.3429">Working week/Take Down<tspan x="752.47934" dy="8.06579" font-weight="400" font-size="5.9657px">£2,000</tspan></text>
+<rect id="label61_bg" class="for_r61" x="746.81453" y="1398.83899" width="102.26542" height="25.85547" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label61" class="for_r61" text-anchor="start" x="752.47934" y="1412.2868" font-weight="400" font-size="11.1522px" dy="-0.4477">Subsidised Places<tspan x="752.47934" dy="8.85538" font-weight="400" font-size="6.54971px">£25,000</tspan></text>
+<rect id="label62_bg" class="for_r62" x="746.81453" y="1435.07166" width="115.35453" height="24.04016" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label62" class="for_r62" text-anchor="start" x="752.47934" y="1447.4017" font-weight="400" font-size="10.1254px" dy="-0.33002">Extra Solidarity Spaces<tspan x="752.47934" dy="8.04005" font-weight="400" font-size="5.94666px">£1,250</tspan></text>
+<rect id="label63_bg" class="for_r63" x="502.08723" y="783.68109" width="68.73686" height="24.16882" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label63" class="for_r63" text-anchor="start" x="507.75207" y="796.0755" font-weight="400" font-size="10.28752px" dy="-0.39438">Contingency<tspan x="507.75207" dy="8.16878" font-weight="400" font-size="6.04188px">£5,000</tspan></text>
+<rect id="label64_bg" class="for_r64" x="502.08723" y="823.51306" width="50.20292" height="26.20184" rx="4" fill="#fff" fill-opacity="0.75" stroke="none" stroke-width="0" stroke-opacity="0"></rect>
+<text id="label64" class="for_r64" text-anchor="start" x="507.75207" y="837.13397" font-weight="400" font-size="11.58852px" dy="-0.62092">Surplus<tspan x="507.75207" dy="9.20184" font-weight="400" font-size="6.80596px">£35,092</tspan></text>
+</g>
+</g></svg>
